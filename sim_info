@@ -1,0 +1,5 @@
+&sim_info
+
+ resolution = 1024
+ T_deep =  3000
+ shear_pattern = continuous
